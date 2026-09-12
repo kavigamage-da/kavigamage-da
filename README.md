@@ -1,18 +1,22 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Kavindi%20Gamage&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20%7C%20Business%20%7C%20Data%20%7C%20Product&descAlignY=60&descSize=18&animation=fadeIn&color=0:111827,50:2563EB,100:7C3AED"
+src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Kavindi%20Gamage&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20%7C%20Product%20%7C%20Business%20%7C%20Data&descAlignY=60&descSize=18&animation=fadeIn&color=0:111827,50:2563EB,100:7C3AED"
 width="100%"
 />
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1400&color=7C3AED&center=true&vCenter=true&width=850&lines=Turning+problems+into+practical+digital+solutions;Exploring+Business+Analysis+%26+Data+Analytics;Building+with+Technology+%26+Product+Thinking;Learning+%E2%80%A2+Building+%E2%80%A2+Analyzing+%E2%80%A2+Improving"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1400&color=7C3AED&center=true&vCenter=true&width=850&lines=Turning+problems+into+practical+digital+solutions;Exploring+Product+Management+%26+Business+Analysis;Building+with+Technology+%26+Data;Learning+%E2%80%A2+Building+%E2%80%A2+Analyzing+%E2%80%A2+Improving"
 />
 
 <br><br>
 
+<a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -31,11 +35,11 @@ src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1
 
 ## 👋 About Me
 
-I'm **Kavindi Gamage**, a **final-year Information Technology undergraduate at the University of Ruhuna**, exploring the space where **technology, business, users, and data** meet.
+I'm **Kavindi Gamage**, a **final-year Information Technology undergraduate at the University of Ruhuna**, interested in the intersection of **technology, business, users, products, and data**.
 
-My current interests span:
+My current areas of interest include:
 
-**Business Analysis · Data Analytics · Product Thinking · Front-End Development · Technology**
+**Product Management · Business Analysis · Data Analytics · Technology · Front-End Development · AI/ML**
 
 I enjoy going beyond simply building software.
 
@@ -43,7 +47,7 @@ I like understanding:
 
 > **What is the problem? → Who experiences it? → Why does it happen? → What could solve it? → How can technology create value?**
 
-This mindset influences the projects I build and the way I approach learning.
+This mindset influences the way I approach projects, learning, and problem solving.
 
 ---
 
@@ -212,7 +216,7 @@ Transforming operational data into **KPIs and executive-level insights** to supp
 
 ## 📈 Customer Churn Analysis — Telecom LK
 
-Analyzing customer churn drivers with an **executive-focused analytics and dashboard approach**.
+Analyzing customer churn drivers using an **executive-focused analytics and dashboard approach**.
 
 **What it demonstrates**
 
@@ -371,35 +375,39 @@ I want them to communicate **why the problem matters, how I approached it, and w
 <tr>
 
 <td align="center">
-🚀<br>
-<b>PRODUCT</b><br><br>
+
+🚀<br> <b>PRODUCT</b><br><br>
 Product Discovery<br>
 Prioritization<br>
 Roadmaps
+
 </td>
 
 <td align="center">
-💼<br>
-<b>BUSINESS</b><br><br>
+
+💼<br> <b>BUSINESS</b><br><br>
 Business Analysis<br>
 Requirements<br>
 Process Thinking
+
 </td>
 
 <td align="center">
-🎨<br>
-<b>FRONT-END</b><br><br>
+
+🎨<br> <b>FRONT-END</b><br><br>
 JavaScript<br>
 Web Development<br>
 Responsive Design
+
 </td>
 
 <td align="center">
-📊<br>
-<b>DATA</b><br><br>
+
+📊<br> <b>DATA</b><br><br>
 Analytics<br>
 Power BI<br>
 Machine Learning
+
 </td>
 
 </tr>
@@ -420,7 +428,7 @@ I'm intentionally exploring different areas of technology while developing a cle
               │                   │                   │
               ▼                   ▼                   ▼
          FRONT-END            BUSINESS              DATA
-              │                ANALYSIS               │
+                                ANALYSIS
               │                   │                   │
               └───────────────────┼───────────────────┘
                                   │
@@ -482,10 +490,18 @@ height="170"
 
 <div align="center">
 
+<a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
+ 
+
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="mailto:kavigamage.da@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
