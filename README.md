@@ -1,31 +1,32 @@
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Kavindi%20Gamage&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20%7C%20Product%20%7C%20Business%20%7C%20Data&descAlignY=60&descSize=18&animation=fadeIn&color=0:111827,50:2563EB,100:7C3AED"
-width="100%"
-/>
+<!-- Animated Header -->
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Kavindi%20Gamage&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20%7C%20Product%20%7C%20Business%20%7C%20Data&descAlignY=61&descSize=19&animation=fadeIn&color=0:111827,50:2563EB,100:7C3AED" width="100%"/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1400&color=7C3AED&center=true&vCenter=true&width=850&lines=Turning+problems+into+practical+digital+solutions;Exploring+Product+Management+%26+Business+Analysis;Building+with+Technology+%26+Data;Learning+%E2%80%A2+Building+%E2%80%A2+Analyzing+%E2%80%A2+Improving"
-/>
+<!-- Typing Animation -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Turning+problems+into+practical+digital+solutions;Exploring+Product+Management+%26+Business+Analysis;Building+with+Technology+%26+Data;Learning+%E2%80%A2+Building+%E2%80%A2+Analyzing+%E2%80%A2+Improving" />
 
 <br><br>
+
+<!-- Main Buttons -->
 
 <a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-Visit%20My%20Portfolio-7C3AED?style=for-the-badge"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:kavigamage.da@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
+
+<!-- Visitor Counter -->
 
 <img src="https://komarev.com/ghpvc/?username=kavigamage-da&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
@@ -35,488 +36,288 @@ src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1
 
 ## 👋 About Me
 
-I'm **Kavindi Gamage**, a **final-year Information Technology undergraduate at the University of Ruhuna**, interested in the intersection of **technology, business, users, products, and data**.
+I'm **Kavindi Gamage**, a final-year **BA (Hons) Information Technology undergraduate at the University of Ruhuna**, interested in the intersection of **technology, business, data, and product thinking**.
 
-My current areas of interest include:
+I enjoy understanding problems, analyzing information, identifying opportunities, and turning ideas into practical digital solutions.
 
-**Product Management · Business Analysis · Data Analytics · Technology · Front-End Development · AI/ML**
+### What I'm Building Toward
 
-I enjoy going beyond simply building software.
-
-I like understanding:
-
-> **What is the problem? → Who experiences it? → Why does it happen? → What could solve it? → How can technology create value?**
-
-This mindset influences the way I approach projects, learning, and problem solving.
+* 💼 **Business Analysis & Product Thinking**
+* 📊 **Data Analytics & Business Intelligence**
+* 💻 **Front-End & Software Development**
+* 🤖 **AI/ML & Emerging Technology**
+* 🚀 **Digital Products & System Improvement**
 
 ---
 
-## 🧩 My Professional Direction
+## 🎯 My Professional Direction
 
-<div align="center">
+I am interested in roles where **technology, business, users, and data come together**.
 
-<table>
-<tr>
+```text
+             TECHNOLOGY
+                  ↓
+        Understand the Problem
+                  ↓
+       Analyze Users & Data
+                  ↓
+        Define the Opportunity
+                  ↓
+       Prioritize the Solution
+                  ↓
+        Build & Validate
+                  ↓
+          Measure Impact
+                  ↓
+             IMPROVE
+```
 
-<td width="25%" align="center">
+My long-term goal is to combine:
 
-### 💻
-
-**TECHNOLOGY**
-
-Building
-Understanding
-Experimenting
-
-</td>
-
-<td width="25%" align="center">
-
-### 💼
-
-**BUSINESS**
-
-Requirements
-Processes
-Decision Making
-
-</td>
-
-<td width="25%" align="center">
-
-### 📊
-
-**DATA**
-
-Analysis
-Insights
-Measurement
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀
-
-**PRODUCT**
-
-Problems
-Priorities
-Solutions
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### **Technology × Business × Data × Product**
-
-</div>
+**Technical Understanding + Business Thinking + Data + Product Leadership**
 
 ---
 
-# 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 
-### 🎨 Web & Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html" height="46"/>
-<img src="https://skillicons.dev/icons?i=css" height="46"/>
-<img src="https://skillicons.dev/icons?i=js" height="46"/>
-</p>
-
-`HTML` · `CSS` · `JavaScript` · `Responsive Web Design`
-
-### 💻 Programming & Development
+### 🌐 Web & Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="46"/>
-<img src="https://skillicons.dev/icons?i=java" height="46"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" height="46"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-`Python` · `Java` · `Android Development`
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
 
 ### 📊 Data & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" height="46"/>
-<img src="https://skillicons.dev/icons?i=postgresql" height="46"/>
-<img src="https://skillicons.dev/icons?i=pandas" height="46"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="46"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-`SQL` · `Pandas` · `Power BI` · `DAX` · `Jupyter` · `Data Analysis`
-
-### 🔧 Development Tools
+### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git" height="46"/>
-<img src="https://skillicons.dev/icons?i=github" height="46"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="46"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" height="46"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Android Studio`
+---
+
+## ⭐ Selected Work
+
+### 📊 E-commerce Data Analytics
+
+**Customer analytics platform focused on churn prediction, segmentation, retention, and customer lifetime value.**
+
+**Highlights**
+
+* 👥 **10,000 customers analyzed**
+* 💰 **$2.1M at-risk customer lifetime value identified**
+* 🤖 **XGBoost churn prediction**
+* 🎯 **0.858 AUC**
+* 📈 RFM segmentation & cohort retention analysis
+
+🔗 **[View Project →](https://github.com/kavigamage-da/ecommerce-data-analytics)**
 
 ---
 
-# 🚀 Selected Work
+### 📦 Supply Chain KPI
 
-> A selection of projects where I explore **data, business problems, software, and technology-driven solutions**.
+**Automated analytics pipeline designed for operational and executive performance monitoring.**
 
-<div align="center">
+* Raw orders → cleaning → KPI analysis → dashboard
+* Automated daily reporting
+* GitHub Actions integration
+* Executive-oriented performance monitoring
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 📊 E-commerce Data Analytics
-
-Exploring customer behavior through **churn prediction, RFM segmentation, cohort analysis, and customer lifetime value**.
-
-**What it demonstrates**
-
-`Data Analytics` · `Machine Learning` · `Business Insights`
-
-<br>
-
-<a href="https://github.com/kavigamage-da/ecommerce-data-analytics">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📦 Supply Chain KPI
-
-Transforming operational data into **KPIs and executive-level insights** to support business understanding and decision-making.
-
-**What it demonstrates**
-
-`Analytics` · `Automation` · `Business Intelligence`
-
-<br>
-
-<a href="https://github.com/kavigamage-da/supply-chain-kpi">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📈 Customer Churn Analysis — Telecom LK
-
-Analyzing customer churn drivers using an **executive-focused analytics and dashboard approach**.
-
-**What it demonstrates**
-
-`Python` · `SQL` · `Power BI` · `DAX`
-
-<br>
-
-<a href="https://github.com/kavigamage-da/customer-churn-analysis-telecom-lk">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💼 Dialog Axiata Due Diligence
-
-Exploring **company performance, financial information, and business decision-making** through a multi-tool analytical approach.
-
-**What it demonstrates**
-
-`Excel` · `Python` · `R` · `Business Analysis`
-
-<br>
-
-<a href="https://github.com/kavigamage-da/dialog-axiata-due-diligence">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ☁️ Databricks Sales Analytics
-
-Exploring sales performance using **Databricks, SQL, dashboards, and AI-assisted analytics**.
-
-**What it demonstrates**
-
-`Databricks` · `SQL` · `Dashboards` · `AI`
-
-<br>
-
-<a href="https://github.com/kavigamage-da/databricks-sales-analytics">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📄 ResumeCraft
-
-A practical software project exploring how technology can simplify the **resume creation experience**.
-
-**What it demonstrates**
-
-`Software Development` · `Web` · `Product Thinking`
-
-<br>
-
-<a href="https://github.com/kavigamage-da/ResumeCraft">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+🔗 **[View Project →](https://github.com/kavigamage-da/supply-chain-kpi)**
 
 ---
 
-# 🧠 How I Think About Technology
+### 📉 Customer Churn Analysis — Telecom LK
 
-<div align="center">
+**Data-driven churn analysis for a Sri Lankan telecommunications context.**
 
-### 🔍 DISCOVER
+**Tools:** Python · SQL · Power BI · DAX
 
-Understand the problem
+* Identified key churn drivers
+* Built executive dashboard
+* Translated analytical findings into business insights
 
-↓
-
-### 🎯 DEFINE
-
-Clarify the real need
-
-↓
-
-### 📌 PRIORITIZE
-
-Focus on what matters
-
-↓
-
-### 💡 DESIGN
-
-Explore possible solutions
-
-↓
-
-### 🛠️ BUILD
-
-Turn ideas into something practical
-
-↓
-
-### 📊 MEASURE
-
-Look at the result
-
-↓
-
-### 🧠 LEARN
-
-Understand what worked
-
-↓
-
-### 🔄 IMPROVE
-
-Iterate and refine
-
-</div>
-
-I want my projects to show more than **what I built**.
-
-I want them to communicate **why the problem matters, how I approached it, and what can be learned from the result**.
+🔗 **[View Project →](https://github.com/kavigamage-da/customer-churn-analysis-telecom-lk)**
 
 ---
 
-# 🎓 Education
+### 💼 Dialog Axiata Due Diligence
 
-<div align="center">
+**Financial and business analysis project focused on Dialog Axiata PLC.**
 
-### University of Ruhuna 🇱🇰
+**Tools:** Excel · Python · R · PowerPoint
 
-**BA (Hons) Information Technology**
+* Financial analysis
+* Business insights
+* Data-driven reporting
+* Executive presentation
 
-**Expected Graduation — April 2027**
-
-</div>
-
----
-
-# 📚 Currently Exploring
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-🚀<br> <b>PRODUCT</b><br><br>
-Product Discovery<br>
-Prioritization<br>
-Roadmaps
-
-</td>
-
-<td align="center">
-
-💼<br> <b>BUSINESS</b><br><br>
-Business Analysis<br>
-Requirements<br>
-Process Thinking
-
-</td>
-
-<td align="center">
-
-🎨<br> <b>FRONT-END</b><br><br>
-JavaScript<br>
-Web Development<br>
-Responsive Design
-
-</td>
-
-<td align="center">
-
-📊<br> <b>DATA</b><br><br>
-Analytics<br>
-Power BI<br>
-Machine Learning
-
-</td>
-
-</tr>
-</table>
-
-</div>
+🔗 **[View Project →](https://github.com/kavigamage-da/dialog-axiata-due-diligence)**
 
 ---
 
-# 🌱 Where I'm Heading
+### ☁️ Databricks Sales Analytics
 
-I'm intentionally exploring different areas of technology while developing a clearer long-term specialization.
+**End-to-end sales analytics project built using Databricks.**
+
+* SQL analytics
+* Interactive dashboards
+* Data exploration
+* AI Genie
+
+🔗 **[View Project →](https://github.com/kavigamage-da/databricks-sales-analytics)**
+
+---
+
+### 📝 ResumeCraft
+
+**Resume-building application focused on creating structured and professional resumes.**
+
+🔗 **[View Project →](https://github.com/kavigamage-da/ResumeCraft)**
+
+---
+
+## 🧠 How I Think About Technology
 
 ```text
-                         INFORMATION TECHNOLOGY
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-         FRONT-END            BUSINESS              DATA
-                                ANALYSIS
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
-                                  ▼
-                              PRODUCT
-                                  │
-                                  ▼
-                       TECHNOLOGY + BUSINESS
+Discover
+   ↓
+Define
+   ↓
+Prioritize
+   ↓
+Design
+   ↓
+Build
+   ↓
+Measure
+   ↓
+Learn
+   ↓
+Improve
 ```
 
-### My long-term goal
-
-**Technical Understanding + Business Thinking + Data + Problem Solving**
+> Good technology is not simply about writing code.
+>
+> It is about **understanding the problem, choosing the right solution, creating measurable value, and continuously improving the outcome.**
 
 ---
 
-# 📊 GitHub Activity
+## 🎓 Education
+
+**University of Ruhuna — Sri Lanka**
+
+🎓 **BA (Hons) Information Technology**
+📌 Final-Year Undergraduate
+📅 Expected Graduation: **April 2027**
+
+---
+
+## 🌱 Currently Exploring
+
+| Area          | Focus                                 |
+| ------------- | ------------------------------------- |
+| 🚀 Product    | Product Management & Product Thinking |
+| 💼 Business   | Business Analysis & Requirements      |
+| 📊 Data       | Analytics & Business Intelligence     |
+| 💻 Technology | Front-End & Digital Systems           |
+| 🤖 AI         | AI/ML Applications                    |
+| 🔐 Security   | Technology & Digital Security         |
+
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=kavigamage-da&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"
-height="175"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=kavigamage-da&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavigamage-da&layout=compact&hide_border=true&theme=transparent"
-height="175"
-/>
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavigamage-da&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavigamage-da&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 
 <br><br>
 
-<img
-src="https://streak-stats.demolab.com?user=kavigamage-da&hide_border=true&theme=transparent"
-height="170"
-/>
+<img src="https://streak-stats.demolab.com?user=kavigamage-da&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 📌 What You'll Find Here
+## 🐍 Contribution Journey
 
 <div align="center">
 
-💻 **Software Projects**
-🎨 **Web & Front-End**
-📊 **Data & Analytics**
-💼 **Business Analysis**
-🚀 **Product Thinking**
-🤖 **AI & Machine Learning**
-📚 **University Projects**
+<img src="https://raw.githubusercontent.com/kavigamage-da/kavigamage-da/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+## 💡 What You'll Find Here
+
+<div align="center">
+
+| 💼 Business       | 📊 Data         | 🚀 Product         | 💻 Technology |
+| ----------------- | --------------- | ------------------ | ------------- |
+| Business Analysis | Data Analytics  | Product Thinking   | Front-End     |
+| Requirements      | BI & Dashboards | Digital Solutions  | Software      |
+| Business Insights | ML Experiments  | System Improvement | AI/ML         |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **internship opportunities, technology projects, product/business discussions, and learning opportunities**.
 
 <div align="center">
 
 <a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20VIEW%20PORTFOLIO-7C3AED?style=for-the-badge"/>
 </a>
-
- 
 
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
- 
 
 <a href="mailto:kavigamage.da@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-### **Learning. Building. Analyzing. Improving.**
+⭐ **Thanks for visiting my profile!**
 
-<sub>Thanks for visiting my profile.</sub>
+</div>
 
-<br><br>
+---
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:2563EB,100:7C3AED"
-width="100%"
-/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=0:111827,50:2563EB,100:7C3AED" width="100%"/>
 
 </div>
