@@ -42,14 +42,14 @@ I enjoy going beyond simply building software — I like understanding **why a p
 
 ### What I bring together
 
-|    | Focus                                                                     |
-| -- | ------------------------------------------------------------------------- |
-| 🚀 | **Product Thinking** — problems, opportunities, prioritization & value    |
-| 💼 | **Business Analysis** — requirements, insights & decision support         |
-| 📊 | **Data & BI** — analytics, dashboards, segmentation & predictive modeling |
-| 💻 | **Technology** — front-end development & software fundamentals            |
-| 🤖 | **AI/ML** — practical applications of machine learning                    |
-| 🔐 | **Digital Systems** — security, system improvement & emerging technology  |
+|     | Focus                                                                     |
+| :-: | ------------------------------------------------------------------------- |
+|  🚀 | **Product Thinking** — problems, opportunities, prioritization & value    |
+|  💼 | **Business Analysis** — requirements, insights & decision support         |
+|  📊 | **Data & BI** — analytics, dashboards, segmentation & predictive modeling |
+|  💻 | **Technology** — front-end development & software fundamentals            |
+|  🤖 | **AI/ML** — practical applications of machine learning                    |
+|  🔐 | **Digital Systems** — security, system improvement & emerging technology  |
 
 ---
 
@@ -57,7 +57,7 @@ I enjoy going beyond simply building software — I like understanding **why a p
 
 I'm interested in opportunities where **technology, users, business, and data intersect**.
 
-My way of approaching a problem:
+My approach to solving problems:
 
 ```text
                          ┌──────────────────┐
@@ -91,7 +91,17 @@ My way of approaching a problem:
 
 ### Long-term direction
 
-**Technical Understanding → Business Thinking → Data → Product Leadership**
+<div align="center">
+
+**Technical Understanding**
+↓
+**Business Thinking**
+↓
+**Data-Driven Decisions**
+↓
+**Product Leadership**
+
+</div>
 
 I want to grow into roles where I can understand both the **technology behind a product** and the **business value it is expected to create**.
 
@@ -146,13 +156,107 @@ I want to grow into roles where I can understand both the **technology behind a 
 
 # ⭐ Selected Work
 
+<div align="center">
+
+### 🚀 Business • Product • Data • Technology
+
+</div>
+
+---
+
+## 🏪 RetailCo Sales & Inventory Optimization
+
+> **End-to-end Business Analysis case study — from business problem to decision-support solution.**
+
+A simulated FMCG retail case study demonstrating how business concerns can be translated into **business questions, data analysis, requirements, process improvements, and decision-support solutions**.
+
+### 🔎 Business Analysis Journey
+
+```text
+Business Concern
+       ↓
+Business Questions
+       ↓
+Data & Evidence
+       ↓
+Performance Analysis
+       ↓
+Root Cause Analysis
+       ↓
+Requirements
+       ↓
+Process Design
+       ↓
+Solution Evaluation
+       ↓
+Decision Support
+```
+
+### 📊 Case Study Snapshot
+
+| Metric                               |      Result |
+| ------------------------------------ | ----------: |
+| 📦 Transaction Records               | **100,000** |
+| 💰 Revenue                           | **₹39.34M** |
+| 📈 Gross Margin                      |  **₹7.87M** |
+| 📊 Revenue-Weighted Margin           |  **20.02%** |
+| 📦 Below-Reorder Transaction Records |   **1.62%** |
+
+### 💡 What I Demonstrated
+
+* Business problem framing
+* Stakeholder analysis
+* Business questions
+* Data-quality assessment
+* KPI definition
+* Root cause analysis
+* Business & functional requirements
+* User stories & acceptance criteria
+* As-Is / To-Be process modeling
+* Solution evaluation
+* Dashboard requirements
+* UAT planning
+* Executive recommendation
+
+### 🧠 Evidence-Driven Insight
+
+The analysis intentionally **challenged the original business assumptions**.
+
+The available evidence did not support treating margin performance or supplier lead time as the primary business problem. The analysis therefore shifted toward **inventory exception monitoring and decision visibility**.
+
+> **The objective was not to force the data to support a predetermined answer — it was to use evidence to determine the direction.**
+
+### 🛠️ Technology
+
+`Python` · `Pandas` · `SQL` · `Excel` · `Power BI` · `Streamlit` · `Plotly` · `Mermaid` · `GitHub`
+
+### 🚀 Live Dashboard
+
+<div align="center">
+
+<a href="https://retailco-sales-inventory.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kavigamage-da/retail-sales-inventory-business-analysis">
+<img src="https://img.shields.io/badge/📂%20VIEW%20CASE%20STUDY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+**Focus:** Business Analysis · Requirements Engineering · Data Analytics · Process Modeling · KPI Design · Decision Support
+
+> *RetailCo is a simulated portfolio case study using synthetic data. No real client, employment, stakeholder interview, production implementation or realized business result is claimed.*
+
+---
+
 ## 📊 E-Commerce Customer Analytics
 
 > **Turning customer data into retention and revenue insights.**
 
-A customer analytics platform focused on **churn prediction, customer segmentation, retention, and lifetime value**.
+A customer analytics project focused on **churn prediction, customer segmentation, retention, and lifetime-value analysis**.
 
-**Impact**
+### 📌 Analysis Highlights
 
 * 👥 **10,000 customers analyzed**
 * 💰 **$2.1M at-risk customer lifetime value identified**
@@ -160,9 +264,19 @@ A customer analytics platform focused on **churn prediction, customer segmentati
 * 🎯 **0.858 AUC**
 * 📈 **RFM segmentation + cohort retention analysis**
 
+**Technology**
+
+`Python` · `Pandas` · `Machine Learning` · `Data Analytics`
+
 **Focus:** Customer Analytics · Predictive Modeling · Business Intelligence · Retention
 
-**[→ View E-Commerce Analytics Project](https://github.com/kavigamage-da/ecommerce-data-analytics)**
+<div align="center">
+
+<a href="https://github.com/kavigamage-da/ecommerce-data-analytics">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -170,9 +284,9 @@ A customer analytics platform focused on **churn prediction, customer segmentati
 
 > **From raw operational data to executive decision support.**
 
-Automated analytics pipeline designed to transform operational orders into **KPIs, dashboards, and daily management reporting**.
+An analytics pipeline designed to transform operational order data into **KPIs, dashboards, performance insights, and management reporting**.
 
-**Pipeline**
+### 🔄 Pipeline
 
 ```text
 Raw Orders
@@ -188,9 +302,19 @@ Executive Dashboard
 Automated Reporting
 ```
 
-**Focus:** Operations · KPIs · Automation · Executive Analytics · GitHub Actions
+### 🛠️ Technology
 
-**[→ View Supply Chain Project](https://github.com/kavigamage-da/supply-chain-kpi)**
+`Python` · `Pandas` · `Power BI` · `GitHub Actions`
+
+**Focus:** Operations · KPIs · Automation · Executive Analytics
+
+<div align="center">
+
+<a href="https://github.com/kavigamage-da/supply-chain-kpi">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -198,20 +322,26 @@ Automated Reporting
 
 > **Finding the business drivers behind customer churn.**
 
-Data-driven analysis for a Sri Lankan telecommunications context.
+Data-driven analysis developed in a Sri Lankan telecommunications context.
 
-**Technology**
-
-`Python` · `SQL` · `Power BI` · `DAX`
-
-**Work**
+### 🧠 Work
 
 * Identified key churn drivers
 * Built an executive-oriented dashboard
 * Translated analytical findings into business insights
 * Focused analysis around actionable decision-making
 
-**[→ View Churn Analysis Project](https://github.com/kavigamage-da/customer-churn-analysis-telecom-lk)**
+### 🛠️ Technology
+
+`Python` · `SQL` · `Power BI` · `DAX`
+
+<div align="center">
+
+<a href="https://github.com/kavigamage-da/customer-churn-analysis-telecom-lk">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -219,37 +349,53 @@ Data-driven analysis for a Sri Lankan telecommunications context.
 
 > **Combining financial data with business interpretation.**
 
-Financial and business analysis project focused on **Dialog Axiata PLC**.
+A financial and business analysis project focused on **Dialog Axiata PLC**.
 
-**Technology**
-
-`Excel` · `Python` · `R` · `PowerPoint`
-
-**Focus**
+### 🧠 Focus
 
 * Financial analysis
 * Business insights
 * Data-driven reporting
 * Executive presentation
 
-**[→ View Due Diligence Project](https://github.com/kavigamage-da/dialog-axiata-due-diligence)**
+### 🛠️ Technology
+
+`Excel` · `Python` · `R` · `PowerPoint`
+
+<div align="center">
+
+<a href="https://github.com/kavigamage-da/dialog-axiata-due-diligence">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## ☁️ Databricks Sales Analytics
 
-> **Exploring sales performance through modern data platforms.**
+> **Exploring sales performance through a modern data platform.**
 
-End-to-end sales analytics project using Databricks.
+An end-to-end sales analytics project using Databricks to explore sales performance and interactive analytical workflows.
 
-**Focus**
+### 🧠 Focus
 
 * SQL analytics
 * Interactive dashboards
 * Data exploration
 * AI Genie
 
-**[→ View Databricks Project](https://github.com/kavigamage-da/databricks-sales-analytics)**
+### 🛠️ Technology
+
+`Databricks` · `SQL` · `Analytics`
+
+<div align="center">
+
+<a href="https://github.com/kavigamage-da/databricks-sales-analytics">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -257,32 +403,61 @@ End-to-end sales analytics project using Databricks.
 
 > **A practical application for creating structured professional resumes.**
 
-Resume-building application focused on turning information into clear, structured professional documents.
+A web-based resume-building application focused on turning user information into clear, structured professional documents.
 
-**[→ View ResumeCraft](https://github.com/kavigamage-da/ResumeCraft)**
+### 🎯 Focus
+
+`Product Thinking` · `Web` · `UX` · `Practical Tool`
+
+<div align="center">
+
+<a href="https://github.com/kavigamage-da/ResumeCraft">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 🧠 How I Think About Technology
 
+<div align="center">
+
 ```text
-DISCOVER
-   ↓
-DEFINE
-   ↓
-PRIORITIZE
-   ↓
-DESIGN
-   ↓
-BUILD
-   ↓
-MEASURE
-   ↓
-LEARN
-   ↓
-IMPROVE
-   ↺
+        ┌──────────────┐
+        │   DISCOVER   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DEFINE    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │  PRIORITIZE  │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     BUILD    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   MEASURE    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     LEARN    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   IMPROVE ↻  │
+        └──────────────┘
 ```
+
+</div>
 
 > **Good technology isn't simply about writing more code.**
 >
@@ -306,6 +481,16 @@ IMPROVE
 
 ---
 
+# 🏆 GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kavigamage-da&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
 # 🎓 Education
 
 ### University of Ruhuna — Sri Lanka
@@ -322,14 +507,14 @@ IMPROVE
 
 <div align="center">
 
-| Area              | Current Focus                         |
-| :---------------- | :------------------------------------ |
-| 🚀 **Product**    | Product Management · Product Thinking |
-| 💼 **Business**   | Business Analysis · Requirements      |
-| 📊 **Data**       | Analytics · Business Intelligence     |
+|        Area       | Current Focus                         |
+| :---------------: | ------------------------------------- |
+|   🚀 **Product**  | Product Management · Product Thinking |
+|  💼 **Business**  | Business Analysis · Requirements      |
+|    📊 **Data**    | Analytics · Business Intelligence     |
 | 💻 **Technology** | Front-End · Digital Systems           |
-| 🤖 **AI**         | AI/ML Applications                    |
-| 🔐 **Security**   | Technology · Digital Security         |
+|     🤖 **AI**     | AI/ML Applications                    |
+|  🔐 **Security**  | Technology · Digital Security         |
 
 </div>
 
@@ -337,25 +522,65 @@ IMPROVE
 
 # 💡 The Kind of Problems I Like
 
+<div align="center">
+
 ```text
-                    PROBLEM
-                       │
-          ┌────────────┼────────────┐
-          ↓            ↓            ↓
-       BUSINESS       USER         DATA
-          │            │            │
-          └────────────┼────────────┘
-                       ↓
-                  INSIGHT
-                       ↓
-                  SOLUTION
-                       ↓
-                    VALUE
-                       ↓
-                  IMPROVEMENT
+                         ┌─────────────┐
+                         │   PROBLEM   │
+                         └──────┬──────┘
+                                ↓
+              ┌─────────────────┼─────────────────┐
+              ↓                 ↓                 ↓
+        ┌────────────┐    ┌────────────┐    ┌────────────┐
+        │  BUSINESS  │    │    USER    │    │    DATA    │
+        └─────┬──────┘    └─────┬──────┘    └─────┬──────┘
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                ↓
+                         ┌─────────────┐
+                         │   INSIGHT   │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │   SOLUTION  │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │    VALUE    │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │ IMPROVEMENT │
+                         └─────────────┘
 ```
 
+</div>
+
 I am especially interested in problems where **technology can simplify complexity, improve decisions, enhance user experiences, or create measurable business value.**
+
+---
+
+# 🚀 What I'm Looking For
+
+<div align="center">
+
+### 💼 Internship Opportunities
+
+**Business Analysis · Product · Data Analytics · Technology**
+
+<br>
+
+### 🤝 Collaboration
+
+**Digital Products · Data Projects · Business Problems · Technology Solutions**
+
+<br>
+
+### 🌱 Growth
+
+**Learning from real-world teams, solving meaningful problems, and continuously improving**
+
+</div>
 
 ---
 
@@ -379,7 +604,7 @@ I'm currently open to **internship opportunities, technology projects, product/b
 
 <br><br>
 
-<sub>Building at the intersection of technology, business, data & product.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+technology%2C+business%2C+data+%26+product.;Learning+%E2%80%A2+Building+%E2%80%A2+Measuring+%E2%80%A2+Improving" />
 
 <br><br>
 
