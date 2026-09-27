@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,20:111827,45:312E81,70:6D28D9,100:06B6D4&height=310&section=header&text=Kavindi%20Gamage&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=BUSINESS%20ANALYSIS%20%E2%80%A2%20DATA%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20TECHNOLOGY&descAlignY=58&descSize=17&descColor=CBD5E1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,20:111827,45:312E81,70:6D28D9,100:06B6D4&height=320&section=header&text=Kavindi%20Gamage&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BUSINESS%20ANALYSIS%20%E2%80%A2%20DATA%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20TECHNOLOGY&descAlignY=56&descSize=18&descColor=CBD5E1" width="100%"/>
 
 <a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EF4444?style=for-the-badge&labelColor=0B0B10"/>
@@ -11,10 +11,14 @@
 <a href="mailto:kavigamage.da@gmail.com">
 <img src="https://img.shields.io/badge/✉️%20EMAIL-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
 </a>
+<a href="https://github.com/kavigamage-da">
+<img src="https://img.shields.io/badge/🐙%20GITHUB-111827?style=for-the-badge&labelColor=0B0B10"/>
+</a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=kavigamage-da&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/kavigamage-da?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0B0B10"/>
 
 <br/><br/>
 
@@ -24,7 +28,7 @@
 
 ---
 
-# 👋 Hello, I'm Kavindi
+## 👋 Hello, I'm Kavindi
 
 **BA (Hons) Information Technology Undergraduate · University of Ruhuna · Sri Lanka**
 
@@ -44,84 +48,71 @@ My work spans four connected areas:
 
 I am especially interested in understanding **why a problem exists**, structuring what needs to be solved, using data where appropriate, and then translating the thinking into a practical digital solution.
 
+<div align="center">
+
 ```text
-PROBLEM
-   ↓
-UNDERSTAND
-   ↓
-REQUIREMENTS / DATA / PROCESS
-   ↓
-ANALYSE
-   ↓
-DESIGN
-   ↓
-BUILD
-   ↓
-TEST
-   ↓
-IMPROVE
+PROBLEM → UNDERSTAND → REQUIREMENTS / DATA / PROCESS → ANALYSE → DESIGN → BUILD → TEST → IMPROVE
 ```
+
+</div>
 
 ---
 
-# ⚡ What I Bring
+## ⚡ What I Bring
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-## 💼 Business Analysis
-
+### 💼 Business Analysis
 **Understand the problem.**
 
-* Requirements Engineering
-* Stakeholder Analysis
-* User Stories
-* Acceptance Criteria
-* Process Modelling
-* KPI Design
-* Root Cause Analysis
-* MoSCoW Prioritisation
-* UAT
-* Solution Evaluation
+- Requirements Engineering
+- Stakeholder Analysis
+- User Stories
+- Acceptance Criteria
+- Process Modelling
+- KPI Design
+- Root Cause Analysis
+- MoSCoW Prioritisation
+- UAT
+- Solution Evaluation
 
 </td>
 
 <td width="33%" valign="top">
 
-## 📊 Data Analytics
-
+### 📊 Data Analytics
 **Turn data into evidence.**
 
-* Exploratory Data Analysis
-* Business KPIs
-* Dashboard Design
-* Customer Analytics
-* Predictive Analysis
-* Data Quality
-* Temporal Validation
-* Python / Pandas
-* Power BI / DAX
-* SQL
+- Exploratory Data Analysis
+- Business KPIs
+- Dashboard Design
+- Customer Analytics
+- Predictive Analysis
+- Data Quality
+- Temporal Validation
+- Python / Pandas
+- Power BI / DAX
+- SQL
 
 </td>
 
 <td width="33%" valign="top">
 
-## 💻 Software Development
-
+### 💻 Software Development
 **Turn ideas into working products.**
 
-* HTML / CSS / JavaScript
-* Python
-* Kotlin / Android
-* Java
-* Responsive Interfaces
-* Application Development
-* APIs
-* Streamlit
-* Git / GitHub
+- HTML / CSS / JavaScript
+- Python
+- Kotlin / Android
+- Java
+- Responsive Interfaces
+- Application Development
+- APIs
+- Streamlit
+- Git / GitHub
 
 </td>
 
@@ -130,12 +121,9 @@ IMPROVE
 
 ---
 
-# 🚀 Featured Work
+## 🚀 Featured Work
 
-## 💼 01 — RetailCo
-
-### Sales & Inventory Optimization
-
+### 💼 01 — RetailCo · Sales & Inventory Optimization
 **Business Analysis + Data Analytics + Decision Support**
 
 A portfolio case study using a **synthetic FMCG dataset** to demonstrate an end-to-end business analysis and analytics workflow.
@@ -143,52 +131,34 @@ A portfolio case study using a **synthetic FMCG dataset** to demonstrate an end-
 <div align="center">
 
 | 📦 TRANSACTIONS |  💰 REVENUE |  📈 MARGIN | ⚠️ BELOW REORDER |
-| :-------------: | :---------: | :--------: | :--------------: |
-|   **100,000**   | **₹39.34M** | **20.02%** |     **1.62%**    |
+| :-------------: | :---------: | :--------: | :---------------: |
+|   **100,000**   | **₹39.34M** | **20.02%** |      **1.62%**    |
 
 </div>
 
-### Business Analysis Workflow
+**Business Analysis Workflow**
 
 ```text
-Stakeholders
-     ↓
-Business Questions
-     ↓
-Requirements
-     ↓
-KPI Framework
-     ↓
-Data Analysis
-     ↓
-Root Cause Analysis
-     ↓
-Solution Evaluation
-     ↓
-UAT
+Stakeholders → Business Questions → Requirements → KPI Framework
+→ Data Analysis → Root Cause Analysis → Solution Evaluation → UAT
 ```
 
-**Key deliverables**
+**Key deliverables:** `Stakeholder Analysis` `Requirements` `User Stories` `Acceptance Criteria` `As-Is / To-Be` `KPI Framework` `Root Cause Analysis` `UAT`
 
-`Stakeholder Analysis` · `Requirements` · `User Stories` · `Acceptance Criteria`
-
-`As-Is / To-Be` · `KPI Framework` · `Root Cause Analysis` · `UAT`
-
+<div align="center">
 <a href="https://github.com/kavigamage-da/retail-sales-inventory-business-analysis">
 <img src="https://img.shields.io/badge/📂%20CASE%20STUDY-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 <a href="https://retailco-sales-inventory.streamlit.app/">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
 </a>
+</div>
 
 > **Portfolio disclaimer:** RetailCo is a simulated case study using synthetic data. It does not represent a real client, production implementation, or realized business outcome.
 
 ---
 
-# 📊 02 — E-Commerce Analytics
-
-### Customer Analytics & Predictive Modelling
-
+### 📊 02 — E-Commerce Analytics · Customer Analytics & Predictive Modelling
 **Data Analytics + Customer Intelligence + Model Validation**
 
 A customer analytics project exploring segmentation, churn, customer lifetime value, and predictive-model behaviour under temporal distribution shift.
@@ -196,46 +166,39 @@ A customer analytics project exploring segmentation, churn, customer lifetime va
 <div align="center">
 
 | 👥 CUSTOMERS | 💰 AT-RISK CLV |  🔥 CHURN | 🤖 STANDARD AUC |
-| :----------: | :------------: | :-------: | :-------------: |
-|  **10,000**  |    **$2.1M**   | **41.2%** |    **0.855**    |
+| :----------: | :------------: | :-------: | :--------------: |
+|  **10,000**  |    **$2.1M**   | **41.2%** |     **0.855**    |
 
 </div>
 
-### A key analytical finding
+**A key analytical finding**
 
 ```text
-Random / Standard Validation
-            ↓
-          AUC 0.855
-            ↓
-      Out-of-Time Test
-            ↓
-          AUC 0.494
-            ↓
-   Distribution Shift Revealed
+Random / Standard Validation → AUC 0.855 → Out-of-Time Test → AUC 0.494 → Distribution Shift Revealed
 ```
 
 The project goes beyond a single model score by examining how predictive performance changes when evaluated against a later time period.
 
+<div align="center">
 <a href="https://github.com/kavigamage-da/ecommerce-data-analytics">
 <img src="https://img.shields.io/badge/📂%20REPOSITORY-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 <a href="https://kavigamage-da-ecommerce.streamlit.app">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20APP-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
 </a>
+</div>
 
 ---
 
-# 📊 Data Analytics Portfolio
+## 📊 Data Analytics Portfolio
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🚚 Supply Chain KPI Intelligence
-
-**Analytics · KPIs · Dashboard · Decision Support**
+**🚚 Supply Chain KPI Intelligence**
+*Analytics · KPIs · Dashboard · Decision Support*
 
 Exploring supply-chain performance through structured KPI analysis and visual reporting.
 
@@ -245,9 +208,8 @@ Exploring supply-chain performance through structured KPI analysis and visual re
 
 ---
 
-### 📱 Telecom Customer Churn Analysis
-
-**Customer Analytics · Churn · Insights**
+**📱 Telecom Customer Churn Analysis**
+*Customer Analytics · Churn · Insights*
 
 Analysing customer behaviour and churn patterns to connect data findings with business questions.
 
@@ -259,9 +221,8 @@ Analysing customer behaviour and churn patterns to connect data findings with bu
 
 <td width="50%" valign="top">
 
-### ☁️ Databricks Sales Analytics
-
-**Analytics · Modern Data Platform · BI**
+**☁️ Databricks Sales Analytics**
+*Analytics · Modern Data Platform · BI*
 
 Exploring sales analytics and modern data workflows using the Databricks ecosystem.
 
@@ -271,9 +232,8 @@ Exploring sales analytics and modern data workflows using the Databricks ecosyst
 
 ---
 
-### 📡 Dialog Axiata Due Diligence
-
-**Business Research · Market Analysis · Data**
+**📡 Dialog Axiata Due Diligence**
+*Business Research · Market Analysis · Data*
 
 A structured analytical case study exploring business and market considerations in the telecommunications domain.
 
@@ -288,7 +248,7 @@ A structured analytical case study exploring business and market considerations 
 
 ---
 
-# 💻 Software Development & Digital Products
+## 💻 Software Development & Digital Products
 
 > These projects represent my **software-development and product-building side** — separate from my BA and Data Analytics work.
 
@@ -297,18 +257,12 @@ A structured analytical case study exploring business and market considerations 
 
 <td width="50%" valign="top">
 
-## ♻️ WasteFlow
-
+### ♻️ WasteFlow
 **Web Application · Digital Product · Software Development**
 
 A software project focused on creating a digital workflow for waste-management operations and information handling.
 
-**Focus**
-
-`Web Development`
-`UI`
-`Workflow`
-`System Design`
+**Focus:** `Web Development` `UI` `Workflow` `System Design`
 
 <a href="https://github.com/kavigamage-da/wasteflow">
 <img src="https://img.shields.io/badge/📂%20REPOSITORY-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
@@ -318,18 +272,12 @@ A software project focused on creating a digital workflow for waste-management o
 
 <td width="50%" valign="top">
 
-## 📄 ResumeCraft
-
+### 📄 ResumeCraft
 **Digital Product · Web Development · Application**
 
 A practical software project focused on creating and managing resumes through a digital resume-building workflow.
 
-**Focus**
-
-`Frontend`
-`Web Development`
-`Application Logic`
-`UI`
+**Focus:** `Frontend` `Web Development` `Application Logic` `UI`
 
 <a href="https://github.com/kavigamage-da/ResumeCraft">
 <img src="https://img.shields.io/badge/📂%20REPOSITORY-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
@@ -343,19 +291,14 @@ A practical software project focused on creating and managing resumes through a 
 
 <td width="50%" valign="top">
 
-## 🏥 CareFlow
-
+### 🏥 CareFlow
 **Android Application · Kotlin · Healthcare Workflow**
 
-An Android application exploring digital workflows across different healthcare roles.
+An Android application exploring digital workflows across different healthcare roles — reception, triage, doctor consultation, laboratory, pharmacy, billing, and operational reporting.
 
-**Technology**
+**Technology:** `Kotlin` `Jetpack Compose` `Room` `Material 3`
 
-`Kotlin` `Android` `Material Design`
-
-**Application roles include**
-
-`Patient` · `Reception` · `Queue` · `Doctor` · `Admin`
+**Application roles include:** `Patient` · `Reception` · `Queue` · `Doctor` · `Lab` · `Pharmacy` · `Cashier` · `Admin`
 
 <a href="https://github.com/kavigamage-da/CareFlow">
 <img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&labelColor=0B0B10"/>
@@ -365,7 +308,7 @@ An Android application exploring digital workflows across different healthcare r
 
 <td width="50%" valign="top">
 
-## 🧩 Software Mindset
+### 🧩 Software Mindset
 
 I enjoy taking an idea from:
 
@@ -382,35 +325,24 @@ My software projects complement my analytical work by helping me understand how 
 
 ---
 
-# 🤖 AI / Research
+## 🤖 AI / Research
 
-## 🎓 Scholarship Eligibility Prediction & Decision Analysis
-
-### Final-Year Research Project
+### 🎓 Scholarship Eligibility Prediction & Decision Analysis
+**Final-Year Research Project**
 
 **An AI-Based Explainable Machine Learning Framework for Scholarship Eligibility Prediction and Decision Analysis**
 
 My final-year research explores an **explainable machine-learning decision-support framework** for experimental scholarship eligibility prediction.
 
-### Research Architecture
+**Research Architecture**
 
 ```text
-UCI Educational Dataset
-        ↓
-Data Preparation
-        ↓
-Experimental Proxy Eligibility
-        ↓
-Machine Learning Models
-        ↓
-Fairness-Aware Evaluation
-        ↓
-SHAP + LIME
-        ↓
-Human-in-the-Loop Decision Support
+UCI Educational Dataset → Data Preparation → Experimental Proxy Eligibility
+→ Machine Learning Models → Fairness-Aware Evaluation → SHAP + LIME
+→ Human-in-the-Loop Decision Support
 ```
 
-### Research technologies
+**Research technologies**
 
 <img src="https://img.shields.io/badge/Logistic%20Regression-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Random%20Forest-06B6D4?style=flat-square"/>
@@ -429,7 +361,7 @@ The eligibility labels are experimental proxy labels based on available academic
 
 ---
 
-# 🧠 How I Think
+## 🧠 How I Think
 
 <div align="center">
 
@@ -437,48 +369,49 @@ The eligibility labels are experimental proxy labels based on available academic
 
 </div>
 
-<table>
-<tr>
-<td align="center">🔎<br/><b>Understand</b><br/>Context</td>
-<td align="center">👥<br/><b>Discover</b><br/>Needs</td>
-<td align="center">📊<br/><b>Analyse</b><br/>Evidence</td>
-<td align="center">🧩<br/><b>Design</b><br/>Solutions</td>
-<td align="center">💻<br/><b>Build</b><br/>Prototype</td>
-<td align="center">🔄<br/><b>Improve</b><br/>Learn</td>
-</tr>
-</table>
+<div align="center">
+
+| 🔎 | 👥 | 📊 | 🧩 | 💻 | 🔄 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Understand**<br>Context | **Discover**<br>Needs | **Analyse**<br>Evidence | **Design**<br>Solutions | **Build**<br>Prototype | **Improve**<br>Learn |
+
+</div>
 
 ---
 
-# 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit
 
-### 🌐 Front-End
+<div align="center">
+
+**🌐 Front-End**
 
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 `HTML` `CSS` `JavaScript` `Responsive UI`
 
-### 🐍 Programming & Application Development
+**🐍 Programming & Application Development**
 
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio"/>
 
 `Python` `Java` `Kotlin` `Android`
 
-### 📊 Data & Analytics
+**📊 Data & Analytics**
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 `Pandas` `Jupyter` `Power BI` `DAX` `SQL` `Data Analysis`
 
-### 🔧 Tools
+**🔧 Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 
 `Git` `GitHub` `VS Code` `Android Studio` `Streamlit`
 
+</div>
+
 ---
 
-# 💼 BA Toolkit
+## 💼 BA Toolkit
 
 <div align="center">
 
@@ -487,14 +420,10 @@ The eligibility labels are experimental proxy labels based on available academic
 <img src="https://img.shields.io/badge/User%20Stories-EF4444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Acceptance%20Criteria-7C3AED?style=for-the-badge"/>
 
-<br/>
-
 <img src="https://img.shields.io/badge/Process%20Modelling-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/KPI%20Design-EF4444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MoSCoW-06B6D4?style=for-the-badge"/>
-
-<br/>
 
 <img src="https://img.shields.io/badge/UAT-EF4444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Solution%20Evaluation-7C3AED?style=for-the-badge"/>
@@ -505,7 +434,25 @@ The eligibility labels are experimental proxy labels based on available academic
 
 ---
 
-# 🏆 GitHub Highlights
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavigamage-da&show_icons=true&theme=tokyonight&bg_color=0B0B10&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1&border_color=312E81&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavigamage-da&theme=tokyonight&background=0B0B10&stroke=312E81&ring=7C3AED&fire=06B6D4&currStreakLabel=22D3EE&hide_border=false" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavigamage-da&layout=compact&theme=tokyonight&bg_color=0B0B10&title_color=22D3EE&text_color=CBD5E1&border_color=312E81&hide_border=false" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavigamage-da&theme=tokyo-night&bg_color=0B0B10&color=22D3EE&line=7C3AED&point=06B6D4&hide_border=true" width="49%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kavigamage-da&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</div>
+
+---
+
+## 🏆 GitHub Highlights
 
 <div align="center">
 
@@ -515,32 +462,25 @@ The eligibility labels are experimental proxy labels based on available academic
 
 </div>
 
-### 🔀 First Pull Request
-
+**🔀 First Pull Request**
 Merged documentation contribution to the `netflix-content-analysis` repository.
+**Branch:** `docs/improve-project-readme` · **Commit:** `3158b20` — `docs: add project objectives to README`
 
-**Branch:** `docs/improve-project-readme`
-
-**Commit:** `3158b20` — `docs: add project objectives to README`
-
-### 💬 GitHub Community
-
+**💬 GitHub Community**
 Participated in a GitHub Community discussion by contributing to an AI/ML learning-roadmap discussion.
 
 > I prefer showing **real projects, research, contributions, and learning** rather than artificial activity metrics.
 
 ---
 
-# 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-## 💼
-
-### Business Analysis
+**💼 Business Analysis**
 
 Requirements
 Process Modelling
@@ -551,9 +491,7 @@ Solution Evaluation
 
 <td width="33%" align="center">
 
-## 📊
-
-### Data & AI
+**📊 Data & AI**
 
 Business Analytics
 Predictive Modelling
@@ -564,9 +502,7 @@ Fairness-Aware ML
 
 <td width="33%" align="center">
 
-## 🚀
-
-### Product & Technology
+**🚀 Product & Technology**
 
 Digital Products
 Problem Discovery
@@ -580,39 +516,23 @@ Decision Support
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-## University of Ruhuna — Sri Lanka
-
+**University of Ruhuna — Sri Lanka**
 **BA (Hons) Information Technology**
+`Final-Year Undergraduate` · **Expected Graduation:** April 2027
 
-`Final-Year Undergraduate`
-
-**Expected Graduation:** April 2027
-
-### Relevant Areas
-
-`Software Engineering` · `Database Systems` · `OOP`
-
-`Project Management` · `Research Methods`
-
-`Machine Learning & Image Processing` · `Mobile Application Development`
+**Relevant Areas:** `Software Engineering` · `Database Systems` · `OOP` · `Project Management` · `Research Methods` · `Machine Learning & Image Processing` · `Mobile Application Development`
 
 ---
 
-# 🎯 What I'm Looking For
+## 🎯 What I'm Looking For
 
 I'm interested in opportunities where I can continue developing across:
 
 <div align="center">
 
-### 💼 Business Analysis
-
-### 📊 Data Analytics
-
-### 🚀 Product Thinking
-
-### 💻 Software & Technology
+### 💼 Business Analysis &nbsp;·&nbsp; 📊 Data Analytics &nbsp;·&nbsp; 🚀 Product Thinking &nbsp;·&nbsp; 💻 Software & Technology
 
 </div>
 
@@ -620,7 +540,7 @@ I'm particularly interested in environments where I can work with **real problem
 
 ---
 
-# 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -631,11 +551,9 @@ I'm particularly interested in environments where I can work with **real problem
 <a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
 <img src="https://img.shields.io/badge/🌐%20EXPLORE%20PORTFOLIO-EF4444?style=for-the-badge&labelColor=0B0B10"/>
 </a>
-
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
 <img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
 </a>
-
 <a href="mailto:kavigamage.da@gmail.com">
 <img src="https://img.shields.io/badge/✉️%20SEND%20AN%20EMAIL-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
 </a>
@@ -653,7 +571,6 @@ I'm particularly interested in environments where I can work with **real problem
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:312E81,70:111827,100:07070A&height=150&section=footer&animation=fadeIn"/>
 
 ### `Kavindi Gamage`
-
 **IT Undergraduate · Business Analysis · Data Analytics · Product Thinking · Technology**
 
 </div>
