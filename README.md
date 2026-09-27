@@ -1,731 +1,505 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,35:111827,65:4C1D95,100:7C3AED&height=300&section=header&text=Kavindi%20Gamage&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUSINESS%20ANALYSIS%20%7C%20DATA%20ANALYTICS%20%7C%20PRODUCT%20%7C%20TECHNOLOGY&descAlignY=58&descSize=17&descColor=CBD5E1" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Final-Year+Information+Technology+Undergraduate;Business+Analysis+%7C+Data+Analytics+%7C+Product+Thinking;Turning+Business+Problems+into+Evidence-Based+Solutions;Requirements+%E2%80%A2+Analytics+%E2%80%A2+Decision+Support;Discover+%E2%80%A2+Define+%E2%80%A2+Analyze+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Kavindi Gamage profile animation"/>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,20:111827,45:312E81,70:6D28D9,100:06B6D4&height=310&section=header&text=Kavindi%20Gamage&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=BUSINESS%20ANALYSIS%20%E2%80%A2%20DATA%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20TECHNOLOGY&descAlignY=58&descSize=17&descColor=CBD5E1" width="100%"/>
 
 <a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EF4444?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EF4444?style=for-the-badge&labelColor=0B0B10"/>
 </a>
-
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
 </a>
-
 <a href="mailto:kavigamage.da@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/✉️%20EMAIL-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kavigamage-da&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=kavigamage-da&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=IT+Undergraduate+%7C+Business+Analysis+%7C+Data+%7C+Technology;Turning+problems+into+structured+solutions.;Technology+%C3%97+Business+%C3%97+Data+%C3%97+Product" alt="Typing animation"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Kavindi
+# 👋 Hello, I'm Kavindi
 
-I'm a **final-year BA (Hons) Information Technology undergraduate at the University of Ruhuna**, building my career at the intersection of:
+**BA (Hons) Information Technology Undergraduate · University of Ruhuna · Sri Lanka**
 
-**Business Analysis × Data Analytics × Product Thinking × Technology**
+I explore how **business problems, data, technology, and product thinking** can come together to create practical solutions.
 
-I enjoy understanding problems from both the **business and technical perspective** — what the business needs, what users experience, what the data reveals, what should be prioritized, and how technology can turn decisions into practical solutions.
-
-I'm particularly interested in **Business Analyst, Data Analyst, Product, and technology-focused internship opportunities** where I can learn from experienced teams and contribute to meaningful problems.
-
----
-
-# 🎯 What I Bring
-
-| 💼 BUSINESS ANALYSIS | 📊 DATA ANALYTICS     | 🚀 PRODUCT       | 💻 TECHNOLOGY         |
-| -------------------- | --------------------- | ---------------- | --------------------- |
-| Problem Framing      | Data Exploration      | Product Thinking | Front-End             |
-| Requirements         | KPI Analysis          | Prioritization   | Software Fundamentals |
-| User Stories         | Business Intelligence | Decision Support | Digital Systems       |
-| Process Modeling     | Predictive Analytics  | Value Thinking   | AI / ML               |
-| UAT Planning         | Dashboards            | User Problems    | Security              |
-
-### My Core Strength
-
-> **I don't want to analyze data just to create charts, or build software just to write code.**
->
-> I want to understand the **problem → evidence → requirement → solution → value** connection.
-
----
-
-# 🧭 How I Approach Problems
+My work spans four connected areas:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=Understand+the+Need;Define+the+Problem;Analyze+the+Evidence;Prioritize+the+Right+Work;Design+%26+Build;Measure+%26+Improve" alt="Problem solving process"/>
+|  💼 BUSINESS |  📊 DATA  |  💻 SOFTWARE |       🤖 AI      |
+| :----------: | :-------: | :----------: | :--------------: |
+| Requirements | Analytics | Web / Mobile | Machine Learning |
+|   Processes  |    KPIs   | Applications |  Explainability  |
+| Stakeholders |  Insights |  Prototypes  |     Research     |
 
 </div>
 
+I am especially interested in understanding **why a problem exists**, structuring what needs to be solved, using data where appropriate, and then translating the thinking into a practical digital solution.
+
 ```text
-                         ┌─────────────────────┐
-                         │    BUSINESS NEED    │
-                         └──────────┬──────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │      DISCOVER       │
-                         └──────────┬──────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │       DEFINE        │
-                         └──────────┬──────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │      ANALYZE        │
-                         └──────────┬──────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │     PRIORITIZE      │
-                         └──────────┬──────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │   DESIGN / BUILD    │
-                         └──────────┬──────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │      MEASURE        │
-                         └──────────┬──────────┘
-                                    ↓
-                         ┌─────────────────────┐
-                         │   LEARN → IMPROVE   │
-                         └─────────────────────┘
+PROBLEM
+   ↓
+UNDERSTAND
+   ↓
+REQUIREMENTS / DATA / PROCESS
+   ↓
+ANALYSE
+   ↓
+DESIGN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+IMPROVE
 ```
 
-This helps me connect **business objectives, users, data, processes, requirements, and technology** rather than treating them as separate activities.
+---
+
+# ⚡ What I Bring
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## 💼 Business Analysis
+
+**Understand the problem.**
+
+* Requirements Engineering
+* Stakeholder Analysis
+* User Stories
+* Acceptance Criteria
+* Process Modelling
+* KPI Design
+* Root Cause Analysis
+* MoSCoW Prioritisation
+* UAT
+* Solution Evaluation
+
+</td>
+
+<td width="33%" valign="top">
+
+## 📊 Data Analytics
+
+**Turn data into evidence.**
+
+* Exploratory Data Analysis
+* Business KPIs
+* Dashboard Design
+* Customer Analytics
+* Predictive Analysis
+* Data Quality
+* Temporal Validation
+* Python / Pandas
+* Power BI / DAX
+* SQL
+
+</td>
+
+<td width="33%" valign="top">
+
+## 💻 Software Development
+
+**Turn ideas into working products.**
+
+* HTML / CSS / JavaScript
+* Python
+* Kotlin / Android
+* Java
+* Responsive Interfaces
+* Application Development
+* APIs
+* Streamlit
+* Git / GitHub
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⭐ Featured Work
+# 🚀 Featured Work
+
+## 💼 01 — RetailCo
+
+### Sales & Inventory Optimization
+
+**Business Analysis + Data Analytics + Decision Support**
+
+A portfolio case study using a **synthetic FMCG dataset** to demonstrate an end-to-end business analysis and analytics workflow.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Business+Problems+%E2%86%92+Evidence+%E2%86%92+Requirements+%E2%86%92+Solutions;Data+%E2%86%92+Insights+%E2%86%92+Decisions;Ideas+%E2%86%92+Products+%E2%86%92+Practical+Technology" alt="Featured work"/>
+| 📦 TRANSACTIONS |  💰 REVENUE |  📈 MARGIN | ⚠️ BELOW REORDER |
+| :-------------: | :---------: | :--------: | :--------------: |
+|   **100,000**   | **₹39.34M** | **20.02%** |     **1.62%**    |
 
 </div>
 
----
-
-# 💼 01 — Business Analysis & Product
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUSINESS%20ANALYSIS-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PRODUCT%20THINKING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DECISION%20SUPPORT-0891B2?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🏪 RetailCo Sales & Inventory Optimization
-
-### End-to-End Business Analysis Case Study
-
-> **Business Problem → Data → Analysis → Requirements → Process → Decision Support**
-
-A simulated FMCG retail case study designed to demonstrate an end-to-end **Business Analysis workflow**.
-
-### 🔎 Business Analysis Flow
+### Business Analysis Workflow
 
 ```text
-Business Concern
-       ↓
+Stakeholders
+     ↓
 Business Questions
-       ↓
-Data Discovery & Quality
-       ↓
-Performance Analysis
-       ↓
+     ↓
+Requirements
+     ↓
+KPI Framework
+     ↓
+Data Analysis
+     ↓
 Root Cause Analysis
-       ↓
-Requirements Engineering
-       ↓
-As-Is / To-Be Process
-       ↓
+     ↓
 Solution Evaluation
-       ↓
-Dashboard Requirements
-       ↓
-Decision Support
+     ↓
+UAT
 ```
 
-### 📊 Analytical Snapshot
+**Key deliverables**
 
-|                            |      Result |
-| -------------------------- | ----------: |
-| 📦 Transaction Records     | **100,000** |
-| 💰 Revenue                 | **₹39.34M** |
-| 📈 Gross Margin            |  **₹7.87M** |
-| 📊 Revenue-Weighted Margin |  **20.02%** |
-| 📦 Below-Reorder Records   |   **1.62%** |
+`Stakeholder Analysis` · `Requirements` · `User Stories` · `Acceptance Criteria`
 
-### 🧠 Key BA Insight
-
-The project deliberately **challenged the initial business assumptions**.
-
-The analysis did not support treating margin performance or supplier lead time as the primary problem. Instead, the evidence supported a more defensible focus on **inventory exception monitoring and decision visibility**.
-
-> **The important result was not forcing the data to confirm the original hypothesis — it was using evidence to change the direction of the solution.**
-
-### 📋 BA Deliverables
-
-`Stakeholder Analysis` · `Business Questions` · `KPI Framework` · `Root Cause Analysis` · `Requirements` · `User Stories` · `Acceptance Criteria` · `As-Is / To-Be Processes` · `Solution Evaluation` · `UAT Planning` · `Executive Recommendation`
-
-### 🛠️ Technology
-
-`Python` · `Pandas` · `SQL` · `Excel` · `Power BI` · `Streamlit` · `Plotly` · `Mermaid` · `GitHub`
-
-**Dataset:** Synthetic 2024 retail dataset
-**Project Type:** Portfolio Business Analysis case study
-**Scope:** FMCG retail sales and inventory decision support
-
-> **Important:** This is a simulated portfolio case study. No real client, employment, stakeholder interview, production implementation, or realized business result is claimed.
-
-### 🚀 Project Links
-
-<div align="center">
-
-<a href="https://retailco-sales-inventory.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-EF4444?style=for-the-badge" />
-</a>
+`As-Is / To-Be` · `KPI Framework` · `Root Cause Analysis` · `UAT`
 
 <a href="https://github.com/kavigamage-da/retail-sales-inventory-business-analysis">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/📂%20CASE%20STUDY-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
 </a>
+<a href="https://retailco-sales-inventory.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
+</a>
+
+> **Portfolio disclaimer:** RetailCo is a simulated case study using synthetic data. It does not represent a real client, production implementation, or realized business outcome.
+
+---
+
+# 📊 02 — E-Commerce Analytics
+
+### Customer Analytics & Predictive Modelling
+
+**Data Analytics + Customer Intelligence + Model Validation**
+
+A customer analytics project exploring segmentation, churn, customer lifetime value, and predictive-model behaviour under temporal distribution shift.
+
+<div align="center">
+
+| 👥 CUSTOMERS | 💰 AT-RISK CLV |  🔥 CHURN | 🤖 STANDARD AUC |
+| :----------: | :------------: | :-------: | :-------------: |
+|  **10,000**  |    **$2.1M**   | **41.2%** |    **0.855**    |
 
 </div>
 
+### A key analytical finding
+
+```text
+Random / Standard Validation
+            ↓
+          AUC 0.855
+            ↓
+      Out-of-Time Test
+            ↓
+          AUC 0.494
+            ↓
+   Distribution Shift Revealed
+```
+
+The project goes beyond a single model score by examining how predictive performance changes when evaluated against a later time period.
+
+<a href="https://github.com/kavigamage-da/ecommerce-data-analytics">
+<img src="https://img.shields.io/badge/📂%20REPOSITORY-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
+</a>
+<a href="https://kavigamage-da-ecommerce.streamlit.app">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20APP-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
+</a>
+
 ---
+
+# 📊 Data Analytics Portfolio
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚚 Supply Chain KPI Intelligence
+
+**Analytics · KPIs · Dashboard · Decision Support**
+
+Exploring supply-chain performance through structured KPI analysis and visual reporting.
+
+<a href="https://github.com/kavigamage-da/supply-chain-kpi">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=flat-square"/>
+</a>
+
+---
+
+### 📱 Telecom Customer Churn Analysis
+
+**Customer Analytics · Churn · Insights**
+
+Analysing customer behaviour and churn patterns to connect data findings with business questions.
+
+<a href="https://github.com/kavigamage-da/customer-churn-analysis-telecom-lk">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=flat-square"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Databricks Sales Analytics
+
+**Analytics · Modern Data Platform · BI**
+
+Exploring sales analytics and modern data workflows using the Databricks ecosystem.
+
+<a href="https://github.com/kavigamage-da/databricks-sales-analytics">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-EF4444?style=flat-square"/>
+</a>
+
+---
+
+### 📡 Dialog Axiata Due Diligence
+
+**Business Research · Market Analysis · Data**
+
+A structured analytical case study exploring business and market considerations in the telecommunications domain.
+
+<a href="https://github.com/kavigamage-da/dialog-axiata-due-diligence">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Software Development & Digital Products
+
+> These projects represent my **software-development and product-building side** — separate from my BA and Data Analytics work.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## ♻️ WasteFlow
 
-### Local Government Waste Management — Business & Product Concept
+**Web Application · Digital Product · Software Development**
 
-> **Public-Sector Problem → Process Understanding → Requirements → Digital Solution**
+A software project focused on creating a digital workflow for waste-management operations and information handling.
 
-A business/product-oriented project exploring how technology can support **waste-management operations, process visibility, coordination, and decision-making** in a local-government context.
+**Focus**
 
-### 🎯 Focus Areas
-
-`Problem Discovery` · `Stakeholder Analysis` · `Process Modeling` · `Requirements` · `Service Improvement` · `Digital Transformation` · `Decision Support`
-
-### 🧠 Product Perspective
-
-The focus is not simply on creating another interface.
-
-```text
-Current Process
-      ↓
-Operational Problems
-      ↓
-Stakeholder Needs
-      ↓
-Requirements
-      ↓
-Digital Workflow
-      ↓
-Information Visibility
-      ↓
-Better Decisions
-```
-
-### 🔗 Project
-
-<div align="center">
+`Web Development`
+`UI`
+`Workflow`
+`System Design`
 
 <a href="https://github.com/kavigamage-da/wasteflow">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/📂%20REPOSITORY-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top">
 
-# 📊 02 — Data Analytics & Business Intelligence
+## 📄 ResumeCraft
 
-<div align="center">
+**Digital Product · Web Development · Application**
 
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PREDICTIVE%20ANALYTICS-7C3AED?style=for-the-badge"/>
+A practical software project focused on creating and managing resumes through a digital resume-building workflow.
 
-</div>
+**Focus**
 
----
-
-## 🛒 E-Commerce Customer Analytics
-
-### Churn Prediction • CLV • RFM • Retention • OOT Validation
-
-> **Predicting churn is useful. Proving that the model generalizes is more important.**
-
-An end-to-end customer analytics platform analyzing **10,000 customers** through predictive modeling, segmentation, retention analysis and production-oriented model validation.
-
-### 💼 Business Questions
-
-* Which customers are most likely to churn?
-* How much customer value is at risk?
-* Which customers should receive retention investment?
-* What does early customer activation look like?
-* Will the model generalize to future customer cohorts?
-
-### 📊 Key Findings
-
-| Metric               |                             Finding |
-| -------------------- | ----------------------------------: |
-| 👥 Customers         |                          **10,000** |
-| 💰 At-Risk CLV       |                           **$2.1M** |
-| 📉 Overall Churn     |                           **41.2%** |
-| 🏆 Champions         | **12.5% customers / 20.2% revenue** |
-| 🔄 Month-1 Retention |                           **16.3%** |
-
-### 🧪 Model Generalization
-
-**Standard validation**
-
-`XGBoost AUC = 0.855`
-
-↓
-
-**Out-of-time validation**
-
-`2021 AUC = 0.494`
-
-```text
-Standard Split
-     ↓
-AUC 0.855
-     ↓
-Looks Strong
-     ↓
-Out-of-Time Validation
-     ↓
-AUC 0.494
-     ↓
-Distribution Shift Detected
-     ↓
-Production Risk Identified
-```
-
-The 2021 cohort had a **64.9% churn rate versus 41.2% overall**, highlighting the importance of temporal validation and distribution-shift analysis.
-
-> **The project therefore focuses not only on model performance, but on whether the model can support future decision-making.**
-
-### 💡 Business Recommendations
-
-`Target mid-CLV at-risk customers`
-
-`Protect high-value Champions`
-
-`Introduce post-purchase onboarding`
-
-`A/B test retention interventions`
-
-`Use OOT validation before model promotion`
-
-`Monitor model performance for drift`
-
-### 🛠️ Technology
-
-`Python` · `Pandas` · `XGBoost` · `scikit-learn` · `SHAP` · `DuckDB` · `Streamlit` · `Plotly` · `statsmodels` · `Prophet` · `pytest` · `GitHub Actions`
-
-`Churn Prediction` · `Customer Lifetime Value` · `RFM Segmentation` · `Retention Analysis` · `Out-of-Time Validation` · `SHAP Explainability` · `Drift Awareness` · `Business Recommendations`
-
-**Dataset:** Synthetic customer dataset
-**Privacy:** No real PII used or stored.
-
-### 🚀 Project Links
-
-<div align="center">
-
-<a href="https://kavigamage-da-ecommerce.streamlit.app">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-EF4444?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/kavigamage-da/ecommerce-data-analytics">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 📦 Supply Chain KPI Intelligence
-
-### Operations Analytics • KPI Design • Automation • Executive Reporting
-
-> **Transforming operational data into management decision support.**
-
-An analytics pipeline designed to transform operational orders into **KPIs, performance insights, dashboards and automated reporting**.
-
-### 🔄 Analytics Pipeline
-
-```text
-Raw Orders
-     ↓
-Data Cleaning
-     ↓
-KPI Calculation
-     ↓
-Performance Analysis
-     ↓
-Executive Dashboard
-     ↓
-Automated Reporting
-```
-
-### 🛠️ Technology
-
-`Python` · `Pandas` · `Power BI` · `GitHub Actions`
-
-### 🎯 Focus
-
-**Operations · KPI Design · Automation · Executive Analytics · Decision Support**
-
-### 🔗 Project
-
-<div align="center">
-
-<a href="https://github.com/kavigamage-da/supply-chain-kpi">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 📉 Telecom Customer Churn Analysis
-
-### Customer Analytics • Segmentation • Executive Reporting
-
-> **Turning customer behavior into actionable business insight.**
-
-A data-driven customer churn analysis developed in a **Sri Lankan telecommunications context**.
-
-### 🔎 What I Explored
-
-* Churn drivers
-* Customer patterns
-* Business segmentation
-* Executive reporting
-* Actionable recommendations
-
-### 🛠️ Technology
-
-`Python` · `SQL` · `Power BI` · `DAX`
-
-### 🔗 Project
-
-<div align="center">
-
-<a href="https://github.com/kavigamage-da/customer-churn-analysis-telecom-lk">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 💼 Dialog Axiata Due Diligence
-
-### Financial Analysis • Business Interpretation • Executive Reporting
-
-> **Combining financial analysis with business interpretation.**
-
-A financial and business analysis project focused on **Dialog Axiata PLC**.
-
-### 🔎 Focus
-
-`Financial Analysis` · `Business Insights` · `Data-Driven Reporting` · `Executive Presentation`
-
-### 🛠️ Technology
-
-`Excel` · `Python` · `R` · `PowerPoint`
-
-### 🔗 Project
-
-<div align="center">
-
-<a href="https://github.com/kavigamage-da/dialog-axiata-due-diligence">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## ☁️ Databricks Sales Analytics
-
-### Modern Data Platform • SQL Analytics • Sales Intelligence
-
-> **Exploring sales performance through modern data platforms.**
-
-An end-to-end sales analytics project using Databricks.
-
-### 🔎 Focus
-
-`SQL Analytics` · `Sales Performance` · `Interactive Dashboards` · `Data Exploration` · `AI Genie`
-
-### 🛠️ Technology
-
-`Databricks` · `SQL` · `Analytics`
-
-### 🔗 Project
-
-<div align="center">
-
-<a href="https://github.com/kavigamage-da/databricks-sales-analytics">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 🤖 03 — AI / Machine Learning & Research
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPLAINABLE%20AI-A78BFA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESEARCH-6366F1?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🎓 Scholarship XAI Research
-
-### Explainable Machine Learning • Fairness • Decision Analysis
-
-> **An AI-based explainable machine learning framework for scholarship eligibility prediction and decision analysis.**
-
-A final-year research project investigating how machine learning and explainability techniques can support experimental scholarship-eligibility prediction and decision analysis.
-
-### 🔬 Research Direction
-
-```text
-Research Problem
-      ↓
-Literature Review
-      ↓
-Dataset & Proxy Labels
-      ↓
-Machine Learning Models
-      ↓
-Fairness Evaluation
-      ↓
-Explainability
-      ↓
-Decision Analysis
-      ↓
-Human-in-the-Loop Prototype
-```
-
-### 🧠 Research Focus
-
-`Design Science Research` · `Machine Learning` · `Explainable AI` · `SHAP` · `LIME` · `Fairness Evaluation` · `Decision Support`
-
-### 🛠️ Planned Technology Direction
-
-`Python` · `scikit-learn` · `XGBoost` · `SHAP` · `LIME` · `FastAPI` · `React`
-
-### 📚 Research Dataset
-
-**UCI Predict Students' Dropout and Academic Success**
-
-The research uses a public educational dataset and develops **experimental proxy scholarship-eligibility labels** rather than claiming to reproduce an institution's actual scholarship criteria.
-
-### 🔗 Research Repository
-
-<div align="center">
-
-<a href="https://github.com/kavigamage-da/final-year-research-scholarship-xai">
-<img src="https://img.shields.io/badge/🔬%20RESEARCH%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-> *This research project does not claim to reproduce an institution's actual scholarship eligibility process.*
-
----
-
-# 💻 04 — Software Development & Digital Products
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WEB-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MOBILE-34D399?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DIGITAL%20PRODUCTS-7C3AED?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📝 ResumeCraft
-
-### Structured Resume Creation • Digital Product
-
-> **A practical digital product for structured professional resume creation.**
-
-A web application designed around turning user information into clear, structured professional resumes.
-
-### 🎯 Focus
-
-`Product Thinking` · `Web` · `UX` · `Practical Tool`
-
-### 🔗 Project
-
-<div align="center">
+`Frontend`
+`Web Development`
+`Application Logic`
+`UI`
 
 <a href="https://github.com/kavigamage-da/ResumeCraft">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/📂%20REPOSITORY-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 
-</div>
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🏥 CareFlow
 
-### Healthcare Queue & Workflow Management System
+**Android Application · Kotlin · Healthcare Workflow**
 
-> **A role-based healthcare workflow concept focused on patient flow, reception, queue operations and clinical workflow.**
+An Android application exploring digital workflows across different healthcare roles.
 
-### 👥 Role Structure
+**Technology**
+
+`Kotlin` `Android` `Material Design`
+
+**Application roles include**
+
+`Patient` · `Reception` · `Queue` · `Doctor` · `Admin`
+
+<a href="https://github.com/kavigamage-da/CareFlow">
+<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&labelColor=0B0B10"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧩 Software Mindset
+
+I enjoy taking an idea from:
+
+**Problem → Concept → Interface → Workflow → Prototype**
+
+and learning through implementation.
+
+My software projects complement my analytical work by helping me understand how requirements and ideas become actual digital products.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤖 AI / Research
+
+## 🎓 Scholarship Eligibility Prediction & Decision Analysis
+
+### Final-Year Research Project
+
+**An AI-Based Explainable Machine Learning Framework for Scholarship Eligibility Prediction and Decision Analysis**
+
+My final-year research explores an **explainable machine-learning decision-support framework** for experimental scholarship eligibility prediction.
+
+### Research Architecture
 
 ```text
-PATIENT
-   ↓
-RECEPTIONIST
-   ↓
-QUEUE OPERATOR
-   ↓
-DOCTOR
-   ↓
-ADMIN
+UCI Educational Dataset
+        ↓
+Data Preparation
+        ↓
+Experimental Proxy Eligibility
+        ↓
+Machine Learning Models
+        ↓
+Fairness-Aware Evaluation
+        ↓
+SHAP + LIME
+        ↓
+Human-in-the-Loop Decision Support
 ```
 
-### 🎯 Product Focus
+### Research technologies
 
-`Workflow Design` · `Role-Based Access` · `Mobile Application` · `Healthcare Operations` · `Digital Systems`
+<img src="https://img.shields.io/badge/Logistic%20Regression-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Random%20Forest-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/LIME-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fairness%20Evaluation-EF4444?style=flat-square"/>
 
-### 🛠️ Technology
+The research uses the **UCI Predict Students' Dropout and Academic Success dataset**, containing **4,424 anonymized records**.
 
-`Kotlin` · `Android` · `Material 3`
+The eligibility labels are experimental proxy labels based on available academic and socioeconomic indicators. They are **not actual scholarship eligibility decisions**.
 
-### 🔗 Project
+<a href="https://github.com/kavigamage-da/final-year-research-scholarship-xai">
+<img src="https://img.shields.io/badge/🔬%20RESEARCH%20REPOSITORY-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
+</a>
+
+---
+
+# 🧠 How I Think
 
 <div align="center">
 
-<a href="https://github.com/kavigamage-da/CareFlow">
-<img src="https://img.shields.io/badge/📂%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=1100&color=A78BFA&center=true&vCenter=true&width=850&lines=Start+with+the+problem%2C+not+the+technology.;Understand+the+people%2C+process%2C+data%2C+and+constraints.;Build%2C+test%2C+learn%2C+and+improve." />
 
 </div>
 
+<table>
+<tr>
+<td align="center">🔎<br/><b>Understand</b><br/>Context</td>
+<td align="center">👥<br/><b>Discover</b><br/>Needs</td>
+<td align="center">📊<br/><b>Analyse</b><br/>Evidence</td>
+<td align="center">🧩<br/><b>Design</b><br/>Solutions</td>
+<td align="center">💻<br/><b>Build</b><br/>Prototype</td>
+<td align="center">🔄<br/><b>Improve</b><br/>Learn</td>
+</tr>
+</table>
+
 ---
 
-# 🧩 My Portfolio Structure
+# 🛠️ Technical Toolkit
 
-| 💼 Business Analysis | 📊 Data Analytics | 🤖 AI / ML      | 💻 Software      |
-| -------------------- | ----------------- | --------------- | ---------------- |
-| RetailCo             | E-Commerce        | Scholarship XAI | ResumeCraft      |
-| WasteFlow            | Supply Chain      | Explainability  | CareFlow         |
-| Product Thinking     | Telecom           | Fairness        | Digital Products |
-| Requirements         | BI / Dashboards   | Research        | Mobile / Web     |
+### 🌐 Front-End
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-# 🧰 Technical Toolkit
+`HTML` `CSS` `JavaScript` `Responsive UI`
 
-### 🌐 Web & Front-End
+### 🐍 Programming & Application Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,androidstudio"/>
 
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=python,java" />
+`Python` `Java` `Kotlin` `Android`
 
 ### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=mysql,pandas" />
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
-<img src="https://img.shields.io/badge/DAX-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+`Pandas` `Jupyter` `Power BI` `DAX` `SQL` `Data Analysis`
 
-### 🤖 AI / Machine Learning
+### 🔧 Tools
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHAP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIME-A78BFA?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-
-<img src="https://img.shields.io/badge/Databricks-EF4444?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-### 📋 BA / Product Practices
-
-`Requirements Engineering` · `Stakeholder Analysis` · `User Stories` · `Acceptance Criteria` · `KPI Design` · `Process Modeling` · `Root Cause Analysis` · `MoSCoW` · `Solution Evaluation` · `UAT`
+`Git` `GitHub` `VS Code` `Android Studio` `Streamlit`
 
 ---
 
-# 🧠 How I Think About Technology
-
-```text
-                 PROBLEM
-                    ↓
-              UNDERSTAND
-                    ↓
-                ANALYZE
-                    ↓
-              PRIORITIZE
-                    ↓
-                 DESIGN
-                    ↓
-                  BUILD
-                    ↓
-                MEASURE
-                    ↓
-                 LEARN
-                    ↓
-               IMPROVE ↻
-```
-
-> **Good technology isn't simply about writing more code.**
->
-> It is about understanding the problem, choosing the right solution, creating measurable value, and continuously improving the outcome.
-
----
-
-# 📈 GitHub Activity
+# 💼 BA Toolkit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavigamage-da&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=22D3EE&text_color=A4A4B2&bg_color=00000000&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/Requirements%20Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stakeholder%20Analysis-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/User%20Stories-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Acceptance%20Criteria-7C3AED?style=for-the-badge"/>
 
-<img src="https://streak-stats.demolab.com?user=kavigamage-da&hide_border=true&theme=transparent&ring=A78BFA&fire=EF4444&currStreakLabel=A78BFA&sideLabels=A4A4B2&dates=71717A&background=00000000" height="180" alt="GitHub contribution streak"/>
+<br/>
 
-</div>
+<img src="https://img.shields.io/badge/Process%20Modelling-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Design-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Root%20Cause%20Analysis-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MoSCoW-06B6D4?style=for-the-badge"/>
 
-<br>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavigamage-da&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=A4A4B2&bg_color=00000000&langs_count=8" height="180" alt="Top languages"/>
+<img src="https://img.shields.io/badge/UAT-EF4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Solution%20Evaluation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Thinking-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-EF4444?style=for-the-badge"/>
 
 </div>
 
@@ -735,140 +509,140 @@ ADMIN
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Consistent+learning;Real+projects;Meaningful+contributions;Continuous+improvement" alt="GitHub highlights animation"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavigamage-da&bg_color=00000000&color=A4A4B2&line=7C3AED&point=22D3EE&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+<img src="https://img.shields.io/badge/🏆%20YOLO-Achievement-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20Quickdraw-Achievement-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔀%20First%20Pull%20Request-Achievement-EF4444?style=for-the-badge"/>
 
 </div>
 
----
+### 🔀 First Pull Request
 
-# 🎖️ GitHub Achievements
+Merged documentation contribution to the `netflix-content-analysis` repository.
 
-<div align="center">
+**Branch:** `docs/improve-project-readme`
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+through+real+GitHub+contributions;Learning+through+open-source+collaboration;Growing+through+consistent+practice" alt="GitHub achievements animation"/>
+**Commit:** `3158b20` — `docs: add project objectives to README`
 
-<br><br>
+### 💬 GitHub Community
 
-<img src="https://img.shields.io/badge/🏆%20YOLO-7C3AED?style=for-the-badge" alt="YOLO achievement"/>
-<img src="https://img.shields.io/badge/⚡%20QUICKDRAW-0891B2?style=for-the-badge" alt="Quickdraw achievement"/>
-<img src="https://img.shields.io/badge/🔀%20FIRST%20PULL%20REQUEST-EF4444?style=for-the-badge" alt="First Pull Request achievement"/>
+Participated in a GitHub Community discussion by contributing to an AI/ML learning-roadmap discussion.
 
-<br><br>
-
-<sub>
-These labels summarize achievements earned on my GitHub profile.
-</sub>
-
-</div>
-
-> **Current achievements:** YOLO · Quickdraw · First Pull Request
-
----
-
-# 🎓 Education
-
-### University of Ruhuna — Sri Lanka
-
-**BA (Hons) Information Technology**
-
-📌 **Final-Year Undergraduate**
-
-📅 **Expected Graduation: April 2027**
+> I prefer showing **real projects, research, contributions, and learning** rather than artificial activity metrics.
 
 ---
 
 # 🌱 Currently Exploring
 
-|    | Focus                                            |
-| -- | ------------------------------------------------ |
-| 🚀 | **Product Management & Product Thinking**        |
-| 💼 | **Business Analysis & Requirements Engineering** |
-| 📊 | **Data Analytics & Business Intelligence**       |
-| 💻 | **Front-End & Digital Systems**                  |
-| 🤖 | **Practical AI / ML Applications**               |
-| 🔐 | **Digital Security & Emerging Technology**       |
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 💼
+
+### Business Analysis
+
+Requirements
+Process Modelling
+Product Discovery
+Solution Evaluation
+
+</td>
+
+<td width="33%" align="center">
+
+## 📊
+
+### Data & AI
+
+Business Analytics
+Predictive Modelling
+Explainable AI
+Fairness-Aware ML
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚀
+
+### Product & Technology
+
+Digital Products
+Problem Discovery
+Software Development
+Decision Support
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 💡 The Problems I Like
+# 🎓 Education
 
-```text
-                         ┌───────────────┐
-                         │    PROBLEM    │
-                         └───────┬───────┘
-                                 ↓
-                 ┌───────────────┼───────────────┐
-                 ↓               ↓               ↓
-          ┌────────────┐  ┌────────────┐  ┌────────────┐
-          │  BUSINESS  │  │    USER    │  │    DATA    │
-          └──────┬─────┘  └──────┬─────┘  └──────┬─────┘
-                 │               │               │
-                 └───────────────┼───────────────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    INSIGHT    │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │    SOLUTION   │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │     VALUE     │
-                         └───────┬───────┘
-                                 ↓
-                         ┌───────────────┐
-                         │  IMPROVEMENT  │
-                         └───────────────┘
-```
+## University of Ruhuna — Sri Lanka
 
-I am especially interested in problems where **technology can simplify complexity, improve decisions, enhance user experiences, or create measurable business value.**
+**BA (Hons) Information Technology**
+
+`Final-Year Undergraduate`
+
+**Expected Graduation:** April 2027
+
+### Relevant Areas
+
+`Software Engineering` · `Database Systems` · `OOP`
+
+`Project Management` · `Research Methods`
+
+`Machine Learning & Image Processing` · `Mobile Application Development`
 
 ---
 
-# 🚀 What I'm Looking For
+# 🎯 What I'm Looking For
 
-### 💼 INTERNSHIP OPPORTUNITIES
-
-**Business Analyst · Data Analyst · Product · Technology**
-
-### 🤝 COLLABORATION
-
-**Business Problems · Data Projects · Digital Products · Technology Solutions**
-
-### 🌱 GROWTH
-
-**Learning from experienced teams · Solving real problems · Creating measurable value**
-
----
-
-# 🤝 Let's Connect
+I'm interested in opportunities where I can continue developing across:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+at+the+intersection+of+business%2C+data%2C+product+%26+technology.;Discover+%E2%80%A2+Analyze+%E2%80%A2+Build+%E2%80%A2+Measure+%E2%80%A2+Improve" alt="Closing animation"/>
+### 💼 Business Analysis
 
-<br><br>
+### 📊 Data Analytics
+
+### 🚀 Product Thinking
+
+### 💻 Software & Technology
+
+</div>
+
+I'm particularly interested in environments where I can work with **real problems, people, processes, data, and technology** while continuing to learn and contribute.
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Technology+%C3%97+Business+%C3%97+Data+%C3%97+Product;Let's+build+something+meaningful." />
+
+<br/><br/>
 
 <a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EF4444?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20EXPLORE%20PORTFOLIO-EF4444?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-7C3AED?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 
 <a href="mailto:kavigamage.da@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/✉️%20SEND%20AN%20EMAIL-06B6D4?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-⭐ **Thanks for visiting my profile.**
+**Explore the repositories. Read the analysis. Follow the thinking.**
 
 </div>
 
@@ -876,6 +650,10 @@ I am especially interested in problems where **technology can simplify complexit
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,40:4C1D95,70:111827,100:07070A&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:312E81,70:111827,100:07070A&height=150&section=footer&animation=fadeIn"/>
+
+### `Kavindi Gamage`
+
+**IT Undergraduate · Business Analysis · Data Analytics · Product Thinking · Technology**
 
 </div>
