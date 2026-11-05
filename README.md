@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,20:111827,45:312E81,70:6D28D9,100:06B6D4&height=320&section=header&text=Kavindi%20Gamage&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BUSINESS%20ANALYSIS%20%E2%80%A2%20DATA%20%E2%80%A2%20PRODUCT%20%E2%80%A2%20TECHNOLOGY&descAlignY=56&descSize=18&descColor=CBD5E1" width="100%"/>
 
-<a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
+<a href="https://kavindigamage.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EF4444?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
@@ -548,7 +548,7 @@ I'm particularly interested in environments where I can work with **real problem
 
 <br/><br/>
 
-<a href="https://kavigamage.my.canva.site/copy-of-kavindi-gamage-premium-it-business-data-portfolio-website">
+<a href="https://kavindigamage.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20EXPLORE%20PORTFOLIO-EF4444?style=for-the-badge&labelColor=0B0B10"/>
 </a>
 <a href="https://www.linkedin.com/in/kavindi-gamage-815049386">
